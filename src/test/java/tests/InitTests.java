@@ -27,5 +27,4 @@ public class InitTests {
     void tearDown() {
         softAssertions.assertAll();
     }
-
 }
