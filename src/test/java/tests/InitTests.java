@@ -10,7 +10,7 @@ import utils.constants.AppInfo;
 
 public class InitTests {
 
-    protected SoftAssertions softAssertions;
+    public SoftAssertions softAssertions;
 
     @BeforeAll
     static void setup() throws JSONException {
